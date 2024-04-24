@@ -1,0 +1,161 @@
+body {
+    background-color: rgb(107, 226, 241);
+  }
+
+  h1 {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 65px;
+    margin-top: -30px;
+  }
+
+  button {
+      background-color: rgb(38, 156, 185);
+      color:white;
+      font-size: 50px;
+      font-family:sans-serif;
+      border-radius: 15px;
+      border-color: white;
+      border-width: 3px;
+      border-style: solid;
+      width: 80px;
+      cursor: pointer; 
+  }
+
+  button:active {
+
+    background-color: rgb(128, 226, 243);
+  }
+
+  .cardback {
+      height: 300px;
+      width: 550px;
+      background-color:  rgb(58, 112, 156);
+      box-shadow: inset -300px 1px 150px -70px rgb(35, 72, 141);
+      margin-left: 350px;
+      margin-top: 50px;
+      border-radius: 25px;
+  }
+
+  .blackline {
+      height: 80px;
+      width: 550px;
+      background-color: black;
+      margin-left: 350px;
+      margin-top: -270px;
+  }
+
+  table {
+     width: 50px;
+     height: 10px;
+
+  }
+     
+
+
+  table {
+    
+    border-collapse: collapse;
+    width: 310px;
+    border: none;
+    margin-left: 360px;
+    margin-top: 20px;
+    
+      
+
+  }
+  
+  tr:nth-child(even) {
+        background-color: white;
+        height: 4px;
+        
+        
+        
+  }
+
+  .colored {
+        background-color: rgb(121, 210, 233);
+        height: 4px;
+
+  }
+
+  .threenumbers {
+    background-color: white;
+    font-size: 20px;
+    height: 30px;
+    width: 38px;
+    margin-left: 670px;
+    margin-top: -38px;
+    font-family: monospace;
+    font-style:italic;
+  }
+
+  .birdhologram {
+    margin-left: 370px;
+    margin-top: 20px;
+    border-radius: 25px;
+  }
+
+ .birdy {
+   border-radius: 10px;
+ }
+
+ .sign {
+  font-size: 10px;
+  font-family: monospace;
+  color: rgb(221, 219, 219);
+  margin-left: 360px;
+  margin-top: -130px;
+ }
+
+ .electronic {
+   font-size: 10px;
+   font-family: monospace;
+   color: rgb(221, 219, 219);
+   margin-left: 790px;
+   margin-top: -10px;
+   
+ }
+
+ .nordeabanken {
+  font-size: 10px;
+  font-family: monospace;
+  color: rgb(221, 219, 219);
+  margin-left: 660px;
+  margin-top: -115px;
+ }
+
+ .cutintwo {
+  font-size: 8px;
+  font-family: monospace;
+  color: rgb(221, 219, 219);
+  margin-left: 370px;
+  margin-top: 230px;
+  width: 220px;
+
+ }
+
+ .tel {
+  font-size: 8px;
+  font-family: monospace;
+  color: rgb(221, 219, 219);
+  margin-left: 370px;
+  margin-top: px;
+
+ }
+
+.debit {
+  font-size: 10px;
+  color: rgb(221, 219, 219);
+  font-family: monospace;
+  margin-left: 855px;
+  margin-top: -7px;
+}
+
+
+
+ 
+
+  
+ 
